@@ -22,6 +22,16 @@
   <hr>
   <br>
 
+  ## 📊 Meu Desempenho
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaLeiaa&show_icons=true&theme=vibrant_palette&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLeiaa&layout=compact&langs_count=7&theme=vibrant_palette" />
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLeiaa&theme=vibrant_palette" />
+</div>
+
   <h2>🌐 Vamos nos conectar?</h2>
   <div>
     <a href="https://linkedin.com/in/ana-leia-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>

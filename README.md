@@ -34,12 +34,11 @@ Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de
 
 ## 📊 Meu Desempenho
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLeiaa&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLeiaa&layout=compact&langs_count=7&theme=rose"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLeiaa&show_icons=true&theme=rose&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLeiaa&layout=compact&langs_count=7&theme=rose" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLeiaa&theme=rose&hide_border=false" />
 </div>
-
 ---

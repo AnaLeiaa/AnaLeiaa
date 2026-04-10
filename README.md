@@ -18,10 +18,8 @@ Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de
   <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="AzureSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
-
 ---
 <br>
-
 ## 🌐 Vamos nos conectar?
 <div align="left">
   <a href="https://linkedin.com/in/ana-leia-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

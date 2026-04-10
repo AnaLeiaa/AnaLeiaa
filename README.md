@@ -3,7 +3,7 @@
 </div>
 
 # 💫 Sobre Mim
-Desenvolvedora **Full Stack** em início de carreira, apaixonada por tecnologia e design. Meu foco atual é a criação de APIs (REST) robustas, integração de sistemas inteligentes e gerenciamento de dados. Busco transformar ideias em códigos elegantes e funcionais. ✨
+Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de APIs (REST), integração de sistemas e gerenciamento de banco de dados. Busco oportunidade para aplicar e ampliar meus conhecimentos em desenvolvimento de software.✨
 
 <br>
 
@@ -43,8 +43,3 @@ Desenvolvedora **Full Stack** em início de carreira, apaixonada por tecnologia 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AnaLeiaa&icon=5&color=12" />
-  <p><i>Feito com 💖 por Ana Leia</i></p>
-</div>

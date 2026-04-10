@@ -7,17 +7,6 @@ Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de
 
 <br>
 
-## 🌐 Vamos nos conectar?
-<div align="left">
-  <a href="https://linkedin.com/in/ana-leia-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/anaaleia_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:analeiahhh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/discord.com/users/1247294378603450398" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://youtube.com/@_analeia" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
-
----
-
 ## 💻 Minhas Skills
 <div align="center">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -31,6 +20,17 @@ Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de
 </div>
 
 ---
+<br>
+
+## 🌐 Vamos nos conectar?
+<div align="left">
+  <a href="https://linkedin.com/in/ana-leia-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/anaaleia_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:analeiahhh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/discord.com/users/1247294378603450398" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@_analeia" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+
 
 ## 📊 Meu Desempenho
 </div>

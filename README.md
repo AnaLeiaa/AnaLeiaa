@@ -41,4 +41,4 @@ Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de
 <div align="center" style="margin-top: 10px;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLeiaa&theme=rose&hide_border=false" />
 </div>
----
+

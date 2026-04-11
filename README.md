@@ -3,6 +3,12 @@
 
   <h1>💫 Sobre Mim</h1>
   <p>Desenvolvedora Full Stack em início de carreira, com foco em desenvolvimento de APIs (REST), integração de sistemas e gerenciamento de banco de dados. Busco oportunidade para aplicar e ampliar meus conhecimentos em desenvolvimento de software. ✨</p>
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Olá,%20sou%20a%20Léia!%20🌸&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+
+  <br>
+  <img src="COLE_O_LINK_DO_GIF_ESCOLHIDO_AQUI" width="180px">
+  <br>
   
   <br>
 

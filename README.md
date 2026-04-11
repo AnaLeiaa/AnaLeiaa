@@ -20,10 +20,9 @@
 <br>
 <h2>🗣️ Idiomas</h2>
 <ul>
-  <li><strong>Inglês:</strong> Básico (Cursando no SENAC) 🇬🇧</li>
+  <li><strong>Inglês:</strong> Básico (Cursando no SENAC)</li>
 </ul>
-  
-  <br>
+    <br>
   <hr>
   <br>
 

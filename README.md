@@ -17,6 +17,8 @@
     <img align="center" alt="Léia Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Léia AzureSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   </div>
+
+  <img src="https://img.shields.io/badge/Ingl%Cês-Básico%20(SENAC)-blue?style=flat-square&logo=googletranslate&logoColor=white">
   
   <br>
   <hr>
